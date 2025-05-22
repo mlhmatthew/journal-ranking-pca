@@ -43,8 +43,9 @@ This project addresses these shortcomings by:
 
 - `journal_ranking_analysis.ipynb` – Jupyter Notebook with full codebase
 - `principled_journal_ranking_report.pdf` – Full academic report with methodology, discussion, and citations
-- `journal_ranking_data.csv` – Cleaned journal dataset with 59 columns and approximately 18,000 entries
 - `journal_ranking_project_poster.pdf` – Visual summary and overview of the project for presentation purposes
+- `journal_ranking_data.csv` – Cleaned journal dataset with 59 columns and approximately 18,000 entries
+
 
 ## Technologies
 
